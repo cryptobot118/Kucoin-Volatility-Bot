@@ -7,7 +7,7 @@ __*__
 .vscode
 
 # Ignore credentials file
-cred.yml
+creds.yml
 
 # Ignore test/live files
 test*.txt
