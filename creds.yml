@@ -1,0 +1,20 @@
+# MAIN NET
+prod:
+  access_key: 6164211e1392350001ad7df7
+  secret_key: a1fd66d0-3ca3-46e3-a501-c4347f69c169
+  passphrase_key: Cherries!010
+
+# TEST NET
+test:
+    access_key: 6duzRljmvdnW5o5rWpe0Y6mBAchrvuIX1ZFBrm9qewCc2L1kwAZweaDBe8puDF1f
+    secret_key: xMjV78KkVWHR97iGnWE1u8SVlq3cLkwHrLI6ReoXe8Q6dAVy0tYTQwFtWZ54zOPS
+
+#creds for telegrambot
+telegram:
+        TELEGRAM_BOT_TOKEN: '1720489954:AAGYmcHmc9EQKTYwttNCPH63KqPxY62sg4w'
+        TELEGRAM_BOT_ID: '1541718328'
+
+
+#this is used to give bot performance to discord channel
+discord:
+        DISCORD_WEBHOOK: 859007586032680990/nLP_G635sdcEBxHo9qdhmOBgykt9MtMIhki9zcC87Vnxbh9FtO2Hfop2wKZgJ2ZEWaHh
